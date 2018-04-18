@@ -1,0 +1,66 @@
+body {
+  background-color: peru;
+}
+
+.nav_bar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+}
+
+.nav_bar li {
+  text-align-last: center;
+}
+
+.nav_bar a {
+  display: block;
+  color: white;
+  padding: 12px 13px;
+  text-decoration: none;
+  float: center;
+}
+
+h1  {
+  border-style: ridge;
+  border-width: 3px;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+.intro p  {
+  border-style: outset;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
+}
+
+.pic img  {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px solid black;
+}
+
+.addr p {
+  text-align: center;
+}
+
+.resumelist ul {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+.world img  {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px solid black;
+}

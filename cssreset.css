@@ -1,0 +1,66 @@
+body {
+  background-color: none;
+}
+
+.nav_bar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: none;
+  background-color: none;
+}
+
+.nav_bar li {
+  text-align-last: none;
+}
+
+.nav_bar a {
+  display: none;
+  color: none;
+  padding: 0px 0px;
+  text-decoration: none;
+  float: none;
+}
+
+h1  {
+  border-style: none;
+  border-width: 0px;
+  text-align: none;
+}
+
+h3 {
+  text-align: none;
+}
+
+.intro p  {
+  border-style: none;
+  margin-left: none;
+  margin-right: none;
+  text-align: none;
+}
+
+.pic img  {
+  display: none;
+  margin-left: none;
+  margin-right: none;
+  border: 0px;
+}
+
+.addr p {
+  text-align: none;
+}
+
+.resumelist ul {
+  text-align: none;
+}
+
+p {
+  text-align: none;
+}
+
+.world img  {
+  display: none;
+  margin-left: none;
+  margin-right: none;
+  border: 0px;
+}
