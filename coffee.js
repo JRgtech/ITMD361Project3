@@ -1,1 +1,3 @@
-document.getElementById("img").src = "Awesome.gif";
+function animate(){
+  document.getElementById("img").src = "Awesome.gif";
+}
