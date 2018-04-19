@@ -63,10 +63,14 @@ p {
   text-align: center;
 }
 
-.multipic {
+.world {
   max-width: 1000px;
   position: relative;
   margin: auto;
+}
+
+.multipic {
+  border: 3px solid black;
 }
 
 .text {
