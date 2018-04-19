@@ -1,6 +1,4 @@
-*{
-  box-sizing: border-box;
-}
+
 
 body {
   background-color: peru;
@@ -63,14 +61,15 @@ p {
 }
 
 .world {
-  max-width: 500px;
+  box-sizing: border-box;
+  max-width: 1000px;
   position: center;
   margin: auto;
 }
 
 .multipic img {
   width: auto;
-  height:auto;
+  height: auto;
 }
 
 
