@@ -1,1 +1,1 @@
-document.getElementById("pic.img").src = "Awesome.gif";
+document.getElementById("img").src = "Awesome.gif";
