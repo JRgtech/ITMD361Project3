@@ -1,3 +1,7 @@
+*{
+  box-sizing: border-box;
+}
+
 body {
   background-color: peru;
 }
@@ -58,11 +62,14 @@ p {
   text-align: center;
 }
 
-.multipic img{
+.world {
   max-width: 1000px;
   position: relative;
   margin: auto;
-  box-sizing: border-box;
+}
+
+.multipic {
+  display: none;
 }
 
 .text {
