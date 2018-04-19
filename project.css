@@ -63,16 +63,11 @@ p {
 }
 
 .world {
+  max-width: 1000px;
   position: relative;
   margin: auto;
 }
 
-world.multipic {
-  position: relative;
-  float: left;
-  width: 100px;
-  height: 100px;
-}
 
 .text {
   color: white;
