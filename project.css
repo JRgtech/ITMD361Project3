@@ -58,15 +58,11 @@ p {
   text-align: center;
 }
 
-.world img{
+.multipic img{
   max-width: 1000px;
   position: relative;
   margin: auto;
   box-sizing: border-box;
-}
-
-.multipic {
-  border: 3px solid black;
 }
 
 .text {
