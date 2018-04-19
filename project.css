@@ -63,8 +63,8 @@ p {
 }
 
 .world {
-  max-width: 1000px;
-  position: relative;
+  max-width: 500px;
+  position: center;
   margin: auto;
 }
 
