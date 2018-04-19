@@ -3,4 +3,4 @@ var div = document.getElementById("awesome");
 img.onload = function() {
   div.appendChild(img);
 }
-img.src = "Awesome.gif"
+img.src = "Awesome.gif";
