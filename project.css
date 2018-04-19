@@ -60,18 +60,17 @@ p {
   text-align: center;
 }
 
-.world {
-  box-sizing: border-box;
-  max-width: 1000px;
-  position: center;
-  margin: auto;
+#world {
+  width: 670px;
+  padding: 0;
+  margin: 0 auto;
+  overflow: hidden;
+  position: relative;
 }
 
-.multipic {
-  width: auto;
-  height: auto;
+.multipic:not(:first-child) {
+  display: none;
 }
-
 
 .text {
   color: white;
