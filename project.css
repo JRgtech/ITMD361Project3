@@ -68,9 +68,8 @@ p {
   margin: auto;
 }
 
-.world img {
-  display: block;
-  width: 100%
+.multipic img {
+  width: auto;
   height:auto;
 }
 
