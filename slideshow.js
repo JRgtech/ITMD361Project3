@@ -3,7 +3,7 @@ imgShow();
 
 function imgShow(){
   var a;
-  var pics = document.getElementsByClassName("multipic");
+  var pics = document.getElementById('world')
   for (a = 0; a < pics.length; a++) {
     pics[a].style.display = "none";
   }
