@@ -1,7 +1,7 @@
 *{box-sizing: border-box}
 
 .world {
-  max-width: 1000px;
+  max-width: auto;
   position: center;
   margin: auto;
 }
