@@ -4,20 +4,20 @@ body {
 
 .nav_bar ul {
   list-style-type: none;
-  margin: 0;
+  margin: auto;
   padding: 0;
   overflow: hidden;
   background-color: black;
 }
 
 .nav_bar li {
-  float: center;
+  float: left;
 }
 
 .nav_bar a {
   display: block;
   color: white;
-  text-align: left;
+  text-align: center;
   padding: 12px 13px;
   text-decoration: none;
 
