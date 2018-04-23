@@ -8,10 +8,11 @@ body {
   padding: 0;
   overflow: hidden;
   background-color: black;
+  text-align: center;
 }
 
 .nav_bar li {
-  margin: auto;
+  float: left;
 }
 
 .nav_bar a {
