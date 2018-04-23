@@ -5,16 +5,3 @@
   position: center;
   margin: auto;
 }
-
-.multipic {
-  display: none;
-}
-
-.text {
-  color: white;
-  font-size: 15px;
-  position: absolute;
-  bottom: 8px;
-  width: 100%;
-  text-align: center;
-}
