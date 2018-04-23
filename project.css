@@ -23,6 +23,11 @@ body {
   padding: 12px;
 }
 
+.nav_bar a:hover {
+  background-color: peru;
+  color: black;
+}
+
 h1  {
   border-style: ridge;
   border-width: 3px;
