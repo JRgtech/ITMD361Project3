@@ -11,7 +11,7 @@ body {
 }
 
 .nav_bar li {
-  float: left;
+  float: center;
 }
 
 .nav_bar a {
