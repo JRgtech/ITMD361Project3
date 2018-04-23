@@ -4,14 +4,14 @@ body {
 
 .nav_bar ul {
   list-style-type: none;
-  margin: auto;
+  margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: black;
 }
 
 .nav_bar li {
-  float: left;
+  margin: auto;
 }
 
 .nav_bar a {
