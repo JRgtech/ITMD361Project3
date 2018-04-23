@@ -11,12 +11,11 @@ body {
 }
 
 .nav_bar li {
-  text-align-last: center;
+  text-align: center;
   display: block;
   color: white;
   padding: 12px 13px;
   text-decoration: none;
-  float: center;
 }
 
 h1  {
