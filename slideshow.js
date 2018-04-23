@@ -26,10 +26,10 @@ function imgShow(){
   var i;
   var pics;
   for (i = 0; a < picsArray.length; i++) {
-    pics = document.getElementsByClassName("world").src = picsArray[i];
+    pics = document.getElementsByClassName("multipic").src = picsArray[i];
   }
   imgIndex++;
   if (imgIndex > picsArray.length) {imgIndex = 1}
-  pics = document.getElementsByClassName("world").src = picsArray[i];
+  pics = document.getElementsByClassName("multipic").src = picsArray[i];
   setTimeout(imgShow, 5000);
 }
