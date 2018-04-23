@@ -24,12 +24,12 @@ function imgShow(){
   picArray[8].src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Space_Needle002.jpg/1200px-Space_Needle002.jpg"
 
   var i;
-  var pics = document.getElementsByClassName("multipic")
+  var pics;
   for (i = 0; a < picsArray.length; i++) {
-    pics[i].appendChild("multipic");
+    pics = document.getElementsByClassName("multipic").src = pics[i];
   }
   imgIndex++;
   if (imgIndex > picsArray.length) {imgIndex = 1}
-  pics[imgIndex-1].appendChild("multipic");
+  pics = document.getElementsByClassName("multipic").src = pics[i];
   setTimeout(imgShow, 5000);
 }
