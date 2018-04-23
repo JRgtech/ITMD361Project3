@@ -25,12 +25,12 @@ function imgShow(){
 
   var i;
   var pics = document.getElementsByClassName("multipic");
-  for (i = 0; a < picsArray.length; i++) {
+  for (i = 0; a < picArray.length; i++) {
     pics.src = picArray[i];
   }
   imgIndex++;
-  
-  if (imgIndex > picsArray.length) {imgIndex = 1}
+
+  if (imgIndex > picArray.length) {imgIndex = 1}
   pics.src = picArray[i-1];
 
   setTimeout(imgShow, 5000);
