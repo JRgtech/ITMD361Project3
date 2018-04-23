@@ -22,8 +22,9 @@ function imgShow(){
   picArray[8].src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Space_Needle002.jpg/1200px-Space_Needle002.jpg"
 
   var i;
+  var oldpic = document.getElementsByClassName("multipic");
   for (i = 0; a < picArray.length; i++) {
-    document.getElementsByClassName("multipic").src = picArray[i];
+    oldpic.appendChild(picArray[i]);
   }
   if (i > picArray.length) {i = 0};
   setTimeout(imgShow, 2000);
