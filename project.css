@@ -3,10 +3,8 @@ body {
 }
 
 .nav_bar ul {
-  list-style-type: none;
   margin: auto;
   padding: 10px;
-  overflow: hidden;
   background-color: black;
 }
 
