@@ -13,12 +13,14 @@ body {
 
 .nav_bar li {
   display: inline-block;
+  padding-right: 5px;
 }
 
 .nav_bar a {
   display: block;
   color: white;
   text-decoration: none;
+  padding: 12px;
 }
 
 h1  {
