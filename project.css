@@ -3,14 +3,22 @@ body {
 }
 
 .nav_bar ul {
-  margin: auto;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
   background-color: black;
 }
 
 .nav_bar li {
-  display: inline;
+  float: left;
+}
+
+.nav_bar a {
+  display: block;
   padding: 10px;
   text-align: center;
+  padding: 12px 13px;
+  text-decoration: none;
   color: white;
 }
 
