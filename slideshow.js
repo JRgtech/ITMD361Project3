@@ -25,11 +25,11 @@ function imgShow(){
 
   var i;
   var pics = document.getElementsByClassName("multipic")
-  for (i = 0; a < pics.length; i++) {
+  for (i = 0; a < picsArray.length; i++) {
     pics[i].appendChild("multipic");
   }
   imgIndex++;
-  if (imgIndex > pics.length) {imgIndex = 1}
+  if (imgIndex > picsArray.length) {imgIndex = 1}
   pics[imgIndex-1].appendChild("multipic");
   setTimeout(imgShow, 5000);
 }
