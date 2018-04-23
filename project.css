@@ -8,6 +8,7 @@ body {
   padding: 0;
   overflow: hidden;
   background-color: black;
+  text-align: center;
 }
 
 .nav_bar li {
@@ -17,10 +18,7 @@ body {
 .nav_bar a {
   display: block;
   color: white;
-  text-align: center;
-  padding: 12px 13px;
   text-decoration: none;
-
 }
 
 h1  {
