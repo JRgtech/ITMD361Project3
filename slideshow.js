@@ -31,5 +31,5 @@ function imgShow(){
   imgIndex++;
   if (imgIndex > pics.length) {imgIndex = 1}
   pics[imgIndex-1].appendChild("multipic");
-  setTimeout(imgShow, 10000);
+  setTimeout(imgShow, 5000);
 }
