@@ -4,11 +4,12 @@ body {
 
 .nav_bar ul {
   margin: auto;
-  padding: 10px;
   background-color: black;
 }
 
 .nav_bar li {
+  display: inline;
+  padding: 10px;
   text-align: center;
   color: white;
 }
