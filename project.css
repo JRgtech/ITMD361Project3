@@ -12,9 +12,6 @@ body {
 
 .nav_bar li {
   text-align-last: center;
-}
-
-.nav_bar a {
   display: block;
   color: white;
   padding: 12px 13px;
