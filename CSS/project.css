@@ -48,17 +48,13 @@ p {
 }
 
 .multipic img {
-  display: block;
+  float: left;
   width: 50%;
-  margin-left: 0%;
-  margin-right: 50%;
 }
 
 .holdimg img {
-  display: block;
+  float: left;
   width: 50%;
-  margin-left: 50%;
-  margin-right: 0%;
 }
 
 .intro p  {
