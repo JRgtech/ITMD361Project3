@@ -24,7 +24,7 @@ var oldpic = document.getElementById('placeHolder');
 for (i = 0; a < picArray.length; i++) {
   var tempImg = document.createElement('img');
   tempImg.src = picArray[i];
-  oldpic.appendChild(tempImg);
+  tempImg.appendChild(oldpic);
 }
 if (i > picArray.length) {i = 0};
 setTimeout(imgShow, 2000);
