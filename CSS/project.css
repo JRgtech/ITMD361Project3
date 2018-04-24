@@ -28,18 +28,10 @@ body {
   color: black;
 }
 
-.multipic img {
-  display: inline-block;
-  margin-left: 0%;
-  margin-right: auto;
+.world img {
+  float:left;
   width: 50%;
-}
-
-.holdimg img {
-  display: inline-block;
-  margin-left: auto;
-  margin-right: 0%;
-  width: 50%;
+  padding: 5px;
 }
 
 h1  {
