@@ -43,18 +43,20 @@ p {
 }
 
 .world img {
-  display: inline-block;
+  display: block;
   padding: 5px;
 }
 
 .multipic img {
   float: left;
   height: 50%;
+  width: auto;
 }
 
 .holdimg img {
   float: left;
   height: 50%;
+  width: auto;
 }
 
 .intro p  {
