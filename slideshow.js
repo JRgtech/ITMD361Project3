@@ -20,7 +20,7 @@ var picArray ["https://travel.aarp.org/content/dam/travel/destination-images/fra
 "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Space_Needle002.jpg/1200px-Space_Needle002.jpg"];
 
 var i;
-var oldpic = document.getElementsByClassName("placeHolder");
+var oldpic = document.getElementById('placeHolder');
 for (i = 0; a < picArray.length; i++) {
   var tempImg = document.createElement('img');
   tempImg.src = picArray[i];
