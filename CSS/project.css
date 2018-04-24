@@ -30,18 +30,19 @@ body {
 
 .world img {
   float:left;
-  width: 50%;
   padding: 5px;
 }
 
 .multipic img {
   display: block;
+  width: 50%;
   margin-left: 0%;
   margin-right: 50%;
 }
 
 .holdimg img {
   display: block;
+  width: 50%;
   margin-left: 50%;
   margin-right: 0%;
 }
