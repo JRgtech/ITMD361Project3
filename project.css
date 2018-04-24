@@ -37,9 +37,9 @@ body {
 
 .holdImg img {
   display: block;
-  margin-left: 50%;
+  margin-left: auto;
   margin-right: 0%;
-  width: 50%;
+  width: auto;
 }
 
 h1  {
