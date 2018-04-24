@@ -30,7 +30,7 @@ body {
 
 .world img {
   float:left;
-  width: 50%;
+  width: auto;
   padding: 5px;
 }
 
