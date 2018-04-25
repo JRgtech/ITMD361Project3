@@ -1,7 +1,10 @@
 imgShow();
 
 function imgShow()  {
-  
-imghold.src = imgContain("#im_");
+
+var imgtemp = new Image();
+imgtemp.src = "im_"
+var oldImg = document.getElementByClass("imghold");
+oldImg.appendChild(imgtemp);
 
 }
