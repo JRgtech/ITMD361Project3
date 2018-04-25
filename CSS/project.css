@@ -43,10 +43,13 @@ p {
 }
 
 .imghold {
-  display: none;
   max-width: 1000px;
   position: relative;
   margin: auto;
+}
+
+.imghold img {
+  display: none;
 }
 
 .prev, .next {
