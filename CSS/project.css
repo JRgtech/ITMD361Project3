@@ -43,8 +43,9 @@ p {
 }
 
 world {
-  width: 100%;
-  margin-bottom: 100px
+  display: inline-block;
+  width: auto;
+  margin-bottom: auto;
 }
 .world img {
   margin-left: auto;
