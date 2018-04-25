@@ -42,18 +42,14 @@ p {
   color: black;
 }
 
+world {
+  width: 100%;
+  margin-bottom: 100px
+}
 .world img {
   margin-left: auto;
   margin-right: auto;
   padding: 0px;
-}
-
-.multipic img {
-  vertical-align: middle;
-}
-
-.holdimg img {
-  vertical-align: middle;
 }
 
 .intro p  {
