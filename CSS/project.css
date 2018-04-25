@@ -43,10 +43,10 @@ p {
 }
 
 .multipic img {
-  display: inline-block;
+  float: left;
   height: 25%;
   width: 25%;
-  padding: 10px;
+  padding: 5px;
 }
 
 .intro p  {
