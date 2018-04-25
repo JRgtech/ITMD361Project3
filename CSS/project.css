@@ -44,9 +44,9 @@ p {
 
 .imghold {
   display: none;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
 }
 
 .prev, .next {
