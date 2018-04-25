@@ -43,7 +43,7 @@ p {
 }
 
 multipic {
-  display: inline-block;
+  display: block;
   width: 50%;
   margin-bottom: auto;
 }
