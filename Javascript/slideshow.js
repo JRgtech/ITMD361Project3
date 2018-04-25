@@ -1,7 +1,7 @@
-var picIndex = 0;
+var picIndex = 1;
 imgShow(picIndex);
 
-function next{n} {
+function next(n) {
   imgShow(picIndex += n);
 }
 
@@ -17,6 +17,5 @@ function imgShow(n) {
   for (i = 0; i < pics.length; i++) {
     pics[i].style.display = "none";
   }
-
   pics[picIndex-1].style.display = "block";
 }
