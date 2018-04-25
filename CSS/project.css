@@ -71,7 +71,7 @@ p {
   text-align: center;
 }
 
-.trip {
+.citybuttons button {
   border: double;
   background-color: black;
   color: white;
@@ -81,7 +81,7 @@ p {
   display: inline-block;
 }
 
-.trip:hover {
+.citybuttons:hover {
   background-color: peru;
   color: black;
 }
