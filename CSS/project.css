@@ -85,3 +85,7 @@ p {
   background-color: peru;
   color: black;
 }
+
+.cityurls img {
+  display: none;
+}
