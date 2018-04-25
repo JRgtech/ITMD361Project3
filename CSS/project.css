@@ -44,11 +44,11 @@ p {
 
 multipic {
   display: block;
-  width: 50%;
   margin-bottom: auto;
 }
 .multipic img {
   float: left;
+  width: 50%;
   padding: 0px;
 }
 
