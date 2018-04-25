@@ -43,11 +43,11 @@ p {
 }
 
 world {
-  display: inline-block;
   width: auto;
   margin-bottom: auto;
 }
 .world img {
+  display: inline-block;
   margin-left: auto;
   margin-right: auto;
   padding: 0px;
