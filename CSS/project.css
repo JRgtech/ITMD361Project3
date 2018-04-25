@@ -70,3 +70,12 @@ p {
 .resumelist ul {
   text-align: center;
 }
+
+.trip {
+  border: none;
+  background-color: inherit;
+  padding: 12px 20px;
+  font-size: 15px;
+  cursor: pointer;
+  display: inline-block;
+}
