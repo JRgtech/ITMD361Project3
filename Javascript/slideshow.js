@@ -1,5 +1,3 @@
-imgShow(class, class.id);
-
 function imgShow(class , class.id)  {
 
 var imgtemp = new Image();
