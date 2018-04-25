@@ -42,8 +42,12 @@ p {
   color: black;
 }
 
-.world img {
+multipic {
   display: inline-block;
+  width: auto;
+  margin-bottom: auto;
+}
+.multipic img {
   margin-left: auto;
   margin-right: auto;
   padding: 0px;
