@@ -42,10 +42,6 @@ p {
   color: black;
 }
 
-world {
-  width: auto;
-  margin-bottom: auto;
-}
 .world img {
   display: inline-block;
   margin-left: auto;
