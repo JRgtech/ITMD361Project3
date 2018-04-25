@@ -1,8 +1,7 @@
-function imgShow(class "imgContain", imgContain.id) {
+function imgShow() {
 
-var imgtemp = new Image();
-imgtemp.src = imgContain.id;
+var tempclass = document.getElementByClass("imgContain").value;
+var tempID = document.getElementById(imgContain.id).value
 var oldImg = document.getElementByClass("imghold");
-oldImg.appendChild(imgtemp);
-
+oldImg.appendChild(tempID);
 }
