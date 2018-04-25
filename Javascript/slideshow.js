@@ -21,8 +21,6 @@ var imglinks ["https://travel.aarp.org/content/dam/travel/destination-images/fra
 
 "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Space_Needle002.jpg/1200px-Space_Needle002.jpg"]
 
-var pressbutton = document.getElementByClass("citybuttons")
-
 var newimg;
 
 var a = 0;
@@ -38,9 +36,10 @@ if (a < imglinks.length) {
 }
 
 for (b > pressbutton.length; b++) {
-  if (pressbutton(id.src=b).clicked == true)
+  if (pressbutton(b).clicked == true)
   {
-    newimg = appendChild("imghold")
+    var originalImg = document.getElementsById("b");
+    newimg.appendChild(originalImg);
   }
 
 if (b < pressbutton.length) {
