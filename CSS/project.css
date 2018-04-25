@@ -44,10 +44,6 @@ p {
 
 .imghold {
   display: none;
-}
-
-.imghold img {
-  display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
