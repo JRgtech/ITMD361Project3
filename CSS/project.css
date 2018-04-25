@@ -81,7 +81,7 @@ p {
   display: inline-block;
 }
 
-.citybuttons:hover {
+.citybuttons button:hover {
   background-color: peru;
   color: black;
 }
