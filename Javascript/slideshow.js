@@ -1,5 +1,7 @@
 imgShow();
 
 function imgShow()  {
-document.getElementByClass("imghold").src = imgContain(#im_);
+  
+imghold.src = imgContain("#im_");
+
 }
