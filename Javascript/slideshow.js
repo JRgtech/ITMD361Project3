@@ -38,7 +38,7 @@ if (a < imglinks.length) {
 }
 
 for (b > pressbutton.length; b++) {
-  if (pressbutton(b).clicked == true)
+  if (pressbutton(id.src=b).clicked == true)
   {
     newimg = appendChild("imghold")
   }
