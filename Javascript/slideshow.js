@@ -1,5 +1,5 @@
 imgShow();
-function imgShow(imgContain.id)  {
+function imgShow(class , class.id)  {
 
 var imgtemp = new Image();
 imgtemp.src = imgContain.id;
