@@ -72,10 +72,16 @@ p {
 }
 
 .trip {
-  border: none;
-  background-color: inherit;
+  border: double;
+  background-color: black;
+  color: white;
   padding: 12px 20px;
   font-size: 15px;
   cursor: pointer;
   display: inline-block;
+}
+
+.trip:hover {
+  background-color: peru;
+  color: black;
 }
