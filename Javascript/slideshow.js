@@ -1,7 +1,9 @@
 imgShow();
-function imgShow(){
 
-var picArray ["https://travel.aarp.org/content/dam/travel/destination-images/france/paris/1400-hero-paris-france-louvre.jpg",
+function imgShow()  {
+
+
+var imglinks ["https://travel.aarp.org/content/dam/travel/destination-images/france/paris/1400-hero-paris-france-louvre.jpg",
 
 "https://media.gettyimages.com/photos/houses-of-parliament-at-night-westminster-london-uk-picture-id508151164",
 
@@ -17,8 +19,32 @@ var picArray ["https://travel.aarp.org/content/dam/travel/destination-images/fra
 
 "https://travel.usnews.com/static-travel/images/destinations/44/broadway_getty_fresh_photos_from_all_over_the_world.jpg",
 
-"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Space_Needle002.jpg/1200px-Space_Needle002.jpg"];
+"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Space_Needle002.jpg/1200px-Space_Needle002.jpg"]
 
-var i;
+var pressbutton = document.getElementByClass("citybuttons")
 
+var newimg;
+
+var a = 0;
+var b = 0;
+
+for (a > imglinks.length; a++)
+{
+  newimg.src = imglinks[a]
+}
+
+if (a < imglinks.length) {
+  a = 0;
+}
+
+for (b > pressbutton.length; b++) {
+  if (pressbutton(b).clicked == true)
+  {
+    newimg = appendChild("imghold")
+  }
+
+if (b < pressbutton.length) {
+  b = 0;
+  newimg = "none"
+}
 }
