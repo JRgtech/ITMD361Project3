@@ -74,12 +74,12 @@ p {
   border-style: ridge;
   border-width: 3px;
   text-align: center;
-  position: relative;
+  position: static;
 }
 
 .travelstyle p {
   text-align: center;
-  position: relative;
+  position: static;
 }
 
 .intro p  {
