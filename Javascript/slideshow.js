@@ -1,4 +1,4 @@
-var picIndex = 0;
+var picIndex = 1;
 imgShow(picIndex);
 
 function next(n) {
