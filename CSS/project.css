@@ -44,7 +44,7 @@ p {
 
 .imghold {
   max-width: auto;
-  position: center;
+  position:relative;
   margin: auto;
 }
 
