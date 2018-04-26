@@ -11,11 +11,11 @@ function currentpic(n) {
 
 function imgShow(n) {
   var i;
-  var pics = document.getElementsByClassName("imghold");
+  var pics = document.getElementsByClassName("imgContain");
   if (n > pics.length) {picIndex = 1}
   if (n < 1) {picIndex = pics.length}
   for (i = 0; i < pics.length; i++) {
     pics[i].style.display = "none";
-  pics[picIndex - 1].style.display = "block";
   }
+  pics[picIndex - 1].style.display = "block";
 }
