@@ -43,8 +43,8 @@ p {
 }
 
 .imghold {
-  max-width: 25px;
-  position: relative;
+  max-width: auto;
+  position: center;
   margin: auto;
 }
 
