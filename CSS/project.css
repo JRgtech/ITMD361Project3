@@ -43,7 +43,6 @@ p {
 }
 
 .imghold {
-  display: none;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
@@ -54,6 +53,7 @@ p {
 }
 
 .imghold img {
+  display: none;
   max-width: 100%;
   max-height: 100%;
   vertical-align: middle;
