@@ -1,3 +1,5 @@
+* {box-sizing: border-box}
+
 body {
   background-color: peru;
 }
@@ -53,7 +55,6 @@ p {
 }
 
 .imghold img {
-  
   max-width: 100%;
   max-height: 100%;
   vertical-align: middle;
