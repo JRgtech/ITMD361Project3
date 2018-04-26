@@ -43,9 +43,9 @@ p {
 }
 
 .imghold {
-  max-width: auto;
-  position:static;
-  margin:auto;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
 }
 
 .imghold p {
