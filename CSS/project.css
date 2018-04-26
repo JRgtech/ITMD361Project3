@@ -50,6 +50,7 @@ p {
   margin: 0 auto;
   overflow: hidden;
   position: relative;
+  text-align: center;
 }
 
 .imgpic {
