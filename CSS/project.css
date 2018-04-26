@@ -96,7 +96,7 @@ p {
 }
 
 .texttrip p {
-  border-style: double;
+  border-style: solid;
   margin-left: auto;
   margin-right: auto;
   text-align: justify;
