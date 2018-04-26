@@ -107,7 +107,7 @@ p {
 }
 
 .intro p  {
-  border-style: outset;
+  border-style: double;
   margin-left: auto;
   margin-right: auto;
   text-align: justify;
