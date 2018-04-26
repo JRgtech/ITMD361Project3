@@ -48,10 +48,6 @@ p {
   margin:auto;
 }
 
-.imghold p {
-  text-align: center;
-}
-
 .imgContain {
   display: none;
 }
