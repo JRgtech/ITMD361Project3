@@ -48,12 +48,6 @@ p {
   margin:auto;
 }
 
-.imghold h1 {
-    border-style: ridge;
-    border-width: 3px;
-    text-align: center;
-}
-
 .imghold p {
   text-align: center;
 }
