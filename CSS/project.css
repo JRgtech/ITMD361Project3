@@ -96,7 +96,7 @@ p {
 }
 
 .texttrip p {
-  border-style: outset;
+  border-style: double;
   margin-left: auto;
   margin-right: auto;
   text-align: justify;
@@ -107,7 +107,7 @@ p {
 }
 
 .intro p  {
-  border-style: double;
+  border-style: outset;
   margin-left: auto;
   margin-right: auto;
   text-align: justify;
