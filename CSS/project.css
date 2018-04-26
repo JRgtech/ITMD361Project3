@@ -43,12 +43,12 @@ p {
 }
 
 .imghold {
-  max-width: 1000px;
+  max-width: 25px;
   position: relative;
   margin: auto;
 }
 
-.imghold img {
+.imgContain {
   display: none;
 }
 
