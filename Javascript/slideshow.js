@@ -17,5 +17,5 @@ function imgShow(n) {
   for (i = 0; i < pics.length; i++) {
     pics[i].style.display = "none";
   }
-  pics[picIndex - 1].style.display = "block";
+  pics[picIndex-1].style.display = "block";
 }
