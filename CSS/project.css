@@ -52,7 +52,7 @@ p {
   text-align: center;
 }
 
-.imgContain {
+.imghold img {
   display: none;
   max-width: 100%;
   max-height: 100%;
