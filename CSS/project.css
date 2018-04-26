@@ -81,6 +81,16 @@ p {
   border-radius: 3px 0 0 3px;
 }
 
+.prev:hover {
+  background-color: black;
+  color: black;
+}
+
+.next:hover {
+  background-color: black;
+  color: black;
+}
+
 .imgpic:not(:first-child) {
   display: none;
 }
