@@ -75,7 +75,7 @@ p {
   border-radius: 3px 0 0 3px;
 }
 
-.imghold:not(:first-child) {
+.imgpic:not(:first-child) {
   display: none;
 }
 
