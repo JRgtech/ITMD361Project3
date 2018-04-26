@@ -42,18 +42,15 @@ p {
   color: black;
 }
 
-.imghold {
-  margin-left: auto;
-  margin-right: auto;
-  width: 25%;
-}
-
 .imghold p {
   text-align: center;
 }
 
 .imgContain {
   display: none;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
 }
 
 .prev, .next {
