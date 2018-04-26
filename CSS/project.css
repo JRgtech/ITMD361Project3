@@ -55,7 +55,7 @@ p {
 
 .imgpic {
   width: 100%;
-  object-fit: contain;
+  object-fit: fill;
 }
 
 .imghold p {
