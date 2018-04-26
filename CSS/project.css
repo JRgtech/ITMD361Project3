@@ -52,11 +52,6 @@ p {
   position: relative;
 }
 
-.imgpic {
-  max-width: 100%;
-  max-height: 100%;
-}
-
 .imghold p {
   text-align: center;
 }
