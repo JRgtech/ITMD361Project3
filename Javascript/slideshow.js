@@ -11,7 +11,7 @@ function currentpic(n) {
 
 function imgShow(n) {
   var i;
-  var pics = document.getElementsByClassName("imgContain");
+  var pics = document.getElementsByClassName("imghold");
   if (n > pics.length) {picIndex = 1}
   if (n < 1) {picIndex = pics.length}
   for (i = 0; i < pics.length; i++) {
