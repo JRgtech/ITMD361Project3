@@ -83,12 +83,12 @@ p {
 
 .prev:hover {
   background-color: black;
-  color: black;
+  color: white;
 }
 
 .next:hover {
   background-color: black;
-  color: black;
+  color: white;
 }
 
 .imgpic:not(:first-child) {
