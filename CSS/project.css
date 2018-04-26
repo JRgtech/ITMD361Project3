@@ -43,7 +43,7 @@ p {
 }
 .imghold {
   max-width: auto;
-  position:relative;
+  position:;
   margin: auto;
 }
 
@@ -68,18 +68,6 @@ p {
 .next {
   right: 0;
   border-radius: 3px 0 0 3px;
-}
-
-.travelstyle h1  {
-  border-style: ridge;
-  border-width: 3px;
-  text-align: center;
-  position: static;
-}
-
-.travelstyle p {
-  text-align: center;
-  position: static;
 }
 
 .intro p  {
