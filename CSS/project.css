@@ -41,19 +41,6 @@ p {
   background-color: peru;
   color: black;
 }
-
-.travelstyle h1  {
-  border-style: ridge;
-  border-width: 3px;
-  text-align: center;
-  position: relative;
-}
-
-.travelstyle p {
-  text-align: center;
-  position: relative;
-}
-
 .imghold {
   max-width: auto;
   position:relative;
@@ -81,6 +68,18 @@ p {
 .next {
   right: 0;
   border-radius: 3px 0 0 3px;
+}
+
+.travelstyle h1  {
+  border-style: ridge;
+  border-width: 3px;
+  text-align: center;
+  position: relative;
+}
+
+.travelstyle p {
+  text-align: center;
+  position: relative;
 }
 
 .intro p  {
