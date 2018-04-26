@@ -95,6 +95,17 @@ p {
   display: none;
 }
 
+.texttrip p {
+  border-style: outset;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
+}
+
+.texttrip ul, li {
+  font-weight: bolder;
+}
+
 .intro p  {
   border-style: outset;
   margin-left: auto;
